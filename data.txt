@@ -1,0 +1,5 @@
+ count  | ballots_returned | ballots_returned_yesterday 
+--------+------------------+----------------------------
+ 661869 |           252380 |                          0
+(1 row)
+
